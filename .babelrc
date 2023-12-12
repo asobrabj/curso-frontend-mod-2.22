@@ -15,6 +15,5 @@
       }
     ],
     "@babel/preset-typescript"
-  ],
-  "sourceType": "unambiguous"
+  ]
 }
